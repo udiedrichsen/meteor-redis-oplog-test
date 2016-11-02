@@ -2,6 +2,7 @@
 https://github.com/cult-of-coders/redis-oplog
 
 # First steps:
+    git clone https://github.com/udiedrichsen/meteor-redis-oplog-test
 
     npm install
 
