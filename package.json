@@ -1,0 +1,11 @@
+{
+  "name": "meteor-redis-oplog-test",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "ioredis": "^2.4.0",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
