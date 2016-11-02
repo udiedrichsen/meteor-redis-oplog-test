@@ -1,7 +1,7 @@
 # This is just a simple meteor test project for 
 https://github.com/cult-of-coders/redis-oplog
-O
-# First steps see:
+
+# First steps:
 
     npm install
 
